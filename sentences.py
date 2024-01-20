@@ -124,7 +124,7 @@ SIMPLE_SENTENCES = [
     "They visit the zoo on weekends.",
     "She teaches English at a school.",
     "The airplane is flying overhead.",
-    "We ride bikes along the trail.",
+    "We ride bikes on the trail.",
     "It's a cold day in December.",
     "Do you enjoy hiking in the mountains?",
     "The cat is playing with a toy.",
